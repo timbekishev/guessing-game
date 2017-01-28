@@ -1,7 +1,7 @@
 class GuessingGame {
     constructor() {
-        this.min=0;
-        this.max=0;
+        this.min=null;
+        this.max=null;
         this.num=0;
     }
        
